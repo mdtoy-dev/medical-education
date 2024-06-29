@@ -1,0 +1,10 @@
+/home/toyenberg/code/medical-education/backend/wasm_module/target/wasm32-unknown-unknown/release/deps/libserde_wasm_bindgen-da52202460b1e3a8.rmeta: /home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/lib.rs /home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/de.rs /home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/error.rs /home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/ser.rs
+
+/home/toyenberg/code/medical-education/backend/wasm_module/target/wasm32-unknown-unknown/release/deps/libserde_wasm_bindgen-da52202460b1e3a8.rlib: /home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/lib.rs /home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/de.rs /home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/error.rs /home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/ser.rs
+
+/home/toyenberg/code/medical-education/backend/wasm_module/target/wasm32-unknown-unknown/release/deps/serde_wasm_bindgen-da52202460b1e3a8.d: /home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/lib.rs /home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/de.rs /home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/error.rs /home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/ser.rs
+
+/home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/lib.rs:
+/home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/de.rs:
+/home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/error.rs:
+/home/toyenberg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-wasm-bindgen-0.2.0/src/ser.rs:
